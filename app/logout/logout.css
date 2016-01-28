@@ -1,0 +1,9 @@
+#logoutContainer{
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+p{
+  text-align: center;
+}
