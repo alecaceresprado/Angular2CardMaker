@@ -1,4 +1,4 @@
-# Angular2CardMaker
+# CardMarker
 Angular 2 app to check personale in/out time
 
 The purpose of this project is learn angular 2.
