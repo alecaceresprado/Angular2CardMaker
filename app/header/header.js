@@ -5,6 +5,10 @@
       templateUrl: 'app/header/header.html',
     })
     .Class({
-      constructor: function() {}
+      constructor: function() {
+      },
+      goTo: function(){
+        ng.platform.browser.bootstrap(app.main);
+      }
     });
 })(window.header || (window.header = {}));

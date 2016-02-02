@@ -6,6 +6,7 @@
     })
     .Class({
       constructor: function() {
+        document.title = "Cerrar sesion";
       },
      goTo: function(){
         ng.platform.browser.bootstrap(app.main);

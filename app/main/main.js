@@ -7,6 +7,7 @@
     .Class({
       constructor: function() {
         this.mainPage = "Main Page";
+        document.title = "Los Ceibos";
       },
       dummyClicker: function(){
         if(this.mainPage === "congrats!")

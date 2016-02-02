@@ -1,0 +1,19 @@
+#insertEmployeeForm{
+  position: relative;
+  display: block;
+  width: 100%;
+}
+form{
+  padding: 3%;
+}
+p{
+  text-align: center;
+}
+a{
+  display: inline-block;
+  width: 100px;
+  padding-bottom: 20px;
+}
+li{
+  display: block;
+}
